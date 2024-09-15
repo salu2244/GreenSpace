@@ -1,4 +1,5 @@
 
+
 ![Home](https://github.com/user-attachments/assets/37b69e83-8f7f-4461-b58e-8d15c0bc525e)
 ![About](https://github.com/user-attachments/assets/82b69715-ec8b-4f11-afc5-a1826aa5780f)
 ![EcoGuide](https://github.com/user-attachments/assets/ce6fd8c7-55f4-4ca1-8118-f86eb67b7c7a)
@@ -7,5 +8,7 @@
 ![Contactus](https://github.com/user-attachments/assets/f878482a-11d8-43d2-9743-a6079ecf05f3)
 ![Signin](https://github.com/user-attachments/assets/bd505827-0a3f-4c8b-8fff-5f04c1e0c7ba)
 ![cart](https://github.com/user-attachments/assets/c1c3d288-3dfd-4704-aa28-110746aceb5c)
+![Screenshot (12)](https://github.com/user-attachments/assets/c7b73ff0-69dc-4127-9739-c59d295c5a69)
+![Screenshot (11)](https://github.com/user-attachments/assets/c3807652-9fed-4a88-917d-c40c5249f3c5)
 ![darkmode](https://github.com/user-attachments/assets/a852fcfa-915c-47d0-b46b-11b62f8c3aea)
 
